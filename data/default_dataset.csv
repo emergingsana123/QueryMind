@@ -1,0 +1,51 @@
+order_id,customer_name,product_category,product_name,quantity,unit_price,total_amount,order_date,region,status
+1001,James Carter,Electronics,Wireless Earbuds,2,49.99,99.98,2024-01-05,North,Completed
+1002,Maria Santos,Clothing,Running Jacket,1,69.99,69.99,2024-01-12,South,Completed
+1003,David Kim,Food,Organic Coffee Beans,3,18.99,56.97,2024-01-18,East,Pending
+1004,Sarah Johnson,Books,Python Programming,1,39.99,39.99,2024-01-25,West,Completed
+1005,Robert Chen,Sports,Yoga Mat,2,29.99,59.98,2024-02-03,North,Completed
+1006,Emma Wilson,Electronics,Bluetooth Speaker,1,79.99,79.99,2024-02-08,South,Completed
+1007,Alex Martinez,Clothing,Denim Jeans,3,44.99,134.97,2024-02-14,East,Refunded
+1008,Lisa Brown,Food,Dark Chocolate Box,5,12.99,64.95,2024-02-20,West,Completed
+1009,Michael Davis,Books,Data Science Handbook,2,44.99,89.98,2024-02-27,North,Completed
+1010,Jennifer Taylor,Sports,Tennis Racket,1,59.99,59.99,2024-03-05,South,Pending
+1011,Christopher Anderson,Electronics,Smart Watch,1,149.99,149.99,2024-03-11,East,Completed
+1012,Amanda Thomas,Clothing,Cotton T-Shirt,4,19.99,79.96,2024-03-18,West,Completed
+1013,Daniel Jackson,Food,Mixed Nuts Pack,6,14.99,89.94,2024-03-24,North,Completed
+1014,Stephanie White,Books,Business Strategy,2,29.99,59.98,2024-04-02,South,Completed
+1015,Matthew Harris,Sports,Resistance Bands,3,19.99,59.97,2024-04-08,East,Completed
+1016,Ashley Martin,Electronics,USB-C Hub,2,34.99,69.98,2024-04-15,West,Pending
+1017,Joshua Thompson,Clothing,Wool Scarf,2,24.99,49.98,2024-04-22,North,Completed
+1018,Megan Garcia,Food,Green Tea Set,1,22.99,22.99,2024-04-29,South,Completed
+1019,Ryan Martinez,Books,Fiction Novel,3,14.99,44.97,2024-05-06,East,Refunded
+1020,Brittany Robinson,Sports,Water Bottle,4,24.99,99.96,2024-05-13,West,Completed
+1021,Nicholas Clark,Electronics,Mechanical Keyboard,1,89.99,89.99,2024-05-20,North,Completed
+1022,Kimberly Rodriguez,Clothing,Athletic Shorts,5,29.99,149.95,2024-05-27,South,Completed
+1023,Jonathan Lewis,Food,Protein Bars,8,24.99,199.92,2024-06-03,East,Pending
+1024,Heather Lee,Books,History Atlas,1,34.99,34.99,2024-06-10,West,Completed
+1025,Brandon Walker,Sports,Jump Rope,2,12.99,25.98,2024-06-17,North,Completed
+1026,Samantha Hall,Electronics,Wireless Earbuds,3,49.99,149.97,2024-06-24,South,Completed
+1027,Justin Allen,Clothing,Running Jacket,2,69.99,139.98,2024-07-01,East,Completed
+1028,Tiffany Young,Food,Organic Coffee Beans,4,18.99,75.96,2024-07-08,West,Completed
+1029,Andrew Hernandez,Books,Python Programming,2,39.99,79.98,2024-07-15,North,Pending
+1030,Kayla King,Sports,Yoga Mat,1,29.99,29.99,2024-07-22,South,Completed
+1031,Eric Wright,Electronics,Bluetooth Speaker,2,79.99,159.98,2024-07-29,East,Completed
+1032,Cassandra Scott,Clothing,Denim Jeans,1,44.99,44.99,2024-08-05,West,Refunded
+1033,Aaron Green,Food,Dark Chocolate Box,7,12.99,90.93,2024-08-12,North,Completed
+1034,Nicole Adams,Books,Data Science Handbook,1,44.99,44.99,2024-08-19,South,Completed
+1035,Adam Baker,Sports,Tennis Racket,2,59.99,119.98,2024-08-26,East,Completed
+1036,Mia Gonzalez,Electronics,Smart Watch,1,149.99,149.99,2024-09-02,West,Pending
+1037,Justin Nelson,Clothing,Cotton T-Shirt,6,19.99,119.94,2024-09-09,North,Completed
+1038,Lauren Carter,Food,Mixed Nuts Pack,3,14.99,44.97,2024-09-16,South,Completed
+1039,Kevin Mitchell,Books,Business Strategy,1,29.99,29.99,2024-09-23,East,Completed
+1040,Rachel Perez,Sports,Resistance Bands,5,19.99,99.95,2024-09-30,West,Completed
+1041,Sean Roberts,Electronics,USB-C Hub,4,34.99,139.96,2024-10-07,North,Completed
+1042,Vanessa Turner,Clothing,Wool Scarf,3,24.99,74.97,2024-10-14,South,Pending
+1043,Philip Campbell,Food,Green Tea Set,2,22.99,45.98,2024-10-21,East,Completed
+1044,Crystal Parker,Books,Fiction Novel,4,14.99,59.96,2024-10-28,West,Completed
+1045,Tyler Evans,Sports,Water Bottle,6,24.99,149.94,2024-11-04,North,Completed
+1046,Danielle Edwards,Electronics,Mechanical Keyboard,2,89.99,179.98,2024-11-11,South,Completed
+1047,Patrick Collins,Clothing,Athletic Shorts,2,29.99,59.98,2024-11-18,East,Refunded
+1048,Courtney Stewart,Food,Protein Bars,10,24.99,249.90,2024-11-25,West,Completed
+1049,Wesley Sanchez,Books,History Atlas,3,34.99,104.97,2024-12-02,North,Completed
+1050,Monica Rivera,Sports,Jump Rope,4,12.99,51.96,2024-12-16,South,Completed
